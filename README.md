@@ -11,7 +11,7 @@ Zeptocade is an oversized drum break machine, and just a ton of fun! I found the
 - 1x 3.5mm TRS (stereo) jack, https://www.taydaelectronics.com/hardware/3-5mm-plugs-jacks/3-5mm-stereo-enclosed-socket.html
 
 ## 3D Printing Notes
-Designed to be printed with a < or equal to 0.6mm nozzle, FDM. 
+Designed to be printed with a < or equal to 0.6mm nozzle, FDM. Mine printed on an BambuLabs A1 Mini in dual extruded filament.
 Available as a complete model for those with huge beds, or as self supporting pairs (top+bottom and left+right).
 - Inner brim recommended
 - I didn't do this, but recommend pausing the build where one body supports the next and applying a little masking tape to the model to act as a profylactic layer.
