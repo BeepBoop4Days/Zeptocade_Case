@@ -1,4 +1,5 @@
 # Zeptocade_Case
+![Animation of the Zeptocade Case, showing different angles, mounted jacks, and acces holes](/assets/images/zeptoCaseAni.webp)
 ## Description
 A Case for the [Zeptocore](https://zeptocore.com/) [Zeptocade](https://zeptocore.com/#zeptocade) by [Infinite Digits](https://infinitedigits.co/wares/)
 
